@@ -1,0 +1,12 @@
+C:\Users\mike\source\repos\Text\obj\Debug\Text.vbproj.AssemblyReference.cache
+C:\Users\mike\source\repos\Text\obj\Debug\Text.Form1.resources
+C:\Users\mike\source\repos\Text\obj\Debug\Text.Resources.resources
+C:\Users\mike\source\repos\Text\obj\Debug\Text.vbproj.GenerateResource.cache
+C:\Users\mike\source\repos\Text\obj\Debug\Text.vbproj.CoreCompileInputs.cache
+C:\Users\mike\source\repos\Text\bin\Debug\Text.exe.config
+C:\Users\mike\source\repos\Text\bin\Debug\Text.exe
+C:\Users\mike\source\repos\Text\bin\Debug\Text.pdb
+C:\Users\mike\source\repos\Text\bin\Debug\Text.xml
+C:\Users\mike\source\repos\Text\obj\Debug\Text.exe
+C:\Users\mike\source\repos\Text\obj\Debug\Text.xml
+C:\Users\mike\source\repos\Text\obj\Debug\Text.pdb
